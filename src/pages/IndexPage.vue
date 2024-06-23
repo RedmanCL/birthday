@@ -34,7 +34,7 @@
             "
           >
             <img
-              style="width: 65%; height: 90px; position: absolute; top: -8px;"
+              style="width: 65%; height: 90px; position: absolute; top: -8px"
               src="../assets/hbd1.png"
               alt=""
             />
@@ -97,9 +97,8 @@
               />
             </div>
             <p style="font-size: 16px; margin: 5px 10px; text-align: center">
-              Celebrating Pst Rose on Her 50th Birthday as well as Her 24 years
-              of service in the House of God <br />
-              (The Master’s Treasure. TMT)
+              CELEBRATING PST ROSE ON HER 50TH BIRTHDAY AS WELL AS HER 24 YEARS
+              OF SERVICE IN THE MASTER’S TREASURE (HOTR KADUNA)
             </p>
             <p
               style="font-size: 0.5em; margin: 5px 10px; text-align: center"
@@ -126,10 +125,10 @@
 
             <q-card-section>
               <div class="text-center" style="font-size: 16px; padding: 15px">
-                Pst Rose joined TMT when the HOTR Kaduna started in 2000 when Mr
-                Harold was the choir Director with less than 10 members. Through
-                her musical skill, commitment and dependability she rose to the
-                position of assistant choir director till date.
+                Pst Rose joined TMT when HOTR Kaduna started in 2000 with Mr
+                Harold as the first choir Director with less than 10 members.
+                Through her musical skill, commitment and dependability she rose
+                to the position she is today in the choir.
               </div>
             </q-card-section>
           </q-card>
@@ -150,31 +149,31 @@
 
         <section id="pst-rose">
           <p style="font-size: 16px">
-            Since the inception of HOTR Kaduna, TMT has remained the most
-            demanding and rigorous department, requiring at least 6 hours of
-            weekly rehearsals, sometimes stretching into the dead of the night
-            despite the insecurity and transportation challenges. Coupled with
-            early Sunday rehearsals, which requires leaving the house sometimes
-            at dawn to be in church.
+            Since the inception of HOTR kaduna, TMT has remained the most
+            consistent, demanding and rigorous department which requires at
+            least 6hrs of weekly rehearsals which sometimes stretches into the
+            dead of the night despite the insecurity and transportation
+            challenges. Coupled with the early Sunday rehearsals which requires
+            leaving the house sometimes at dawn to be in church.
           </p>
           <p style="font-size: 16px">
-            It is also the most expensive department due to the compulsory
-            demands to look presentable, so there are numerous uniforms which
-            all choir members must invest in.
+            Not forgetting it is the most expensive department because of the
+            compulsory demands to look presentable, so there are numerous
+            uniforms which all choir members most invest in.
           </p>
 
           <p style="font-size: 16px">
             Despite all these physical and financial demands, Pst Rose has
             invested 24 years and still counting, diligently and faithfully
-            serving TMT, infusing high standards and quality in ministration,
-            ensuring policies guiding membership of TMT are not compromised, and
-            instilling discipline in the choir, thus becoming a cornerstone.
+            serving TMT infusing high standards and quality in ministration,
+            ensuring policies guiding membership of TMT are not compromised and
+            instilling discipline in the choir, thus she became a cornerstone.
           </p>
 
           <p style="font-size: 16px">
-            TMT is regarded as one of the best choirs in Kaduna for the past 24
-            years because of her major contributions and perseverance despite
-            the challenges facing the choir.
+            In the last 24 years TMT is adjudged one of the best choirs in
+            Kaduna, this is so because of her immense contributions and
+            perseverance, irrespective challenges peculiar to the choir.
           </p>
         </section>
 
@@ -229,6 +228,148 @@
             </q-card-section>
           </q-card>
         </div>
+      </div>
+
+      <div style="width: 100%">
+        <img
+          style="
+            width: 100%;
+            transform: scaleY(-1);
+            margin-top: 10px;
+            margin-bottom: 0px;
+          "
+          src="../assets/fancyline.png"
+          alt=""
+        />
+      </div>
+      <div>
+        <div
+          class="bg-white gift"
+          style="
+            width: 93%;
+            padding-bottom: 40px;
+            margin: auto;
+            position: relative;
+            margin-bottom: 30px;
+            margin-top: 70px;
+            border-radius: 15px;
+          "
+        >
+          <div
+            class=""
+            style="
+              width: 90%;
+              height: 350px;
+              margin: auto;
+              position: relative;
+              top: -30px;
+              border-radius: 15px;
+              overflow: hidden;
+              background-image: linear-gradient(
+                120deg,
+                #89f7fe 0%,
+                #66a6ff 100%
+              );
+            "
+          >
+            <img
+              style="width: 100%; height: 100%; object-fit: cover"
+              src="../../src/assets/rose/img2.jpg"
+            />
+          </div>
+          <h4 style="padding-left: 30px; color: ; font-weight: bold">
+            Cash Gift
+          </h4>
+          <div style="padding: 0 30px; font-size: 16px; margin: 10px 0">
+            As she celebrates her 50th birthday and 24 years at TMT, let's
+            surprise her with a cash gift and our prayers. Please contribute
+            WILLINGLY, considering the current challenges. no PRESURE!
+          </div>
+          <div
+            class="accwhite"
+            style="
+              padding: 7px;
+              margin-left: 28px;
+              margin-right: 28px;
+              margin-bottom: 15px;
+              border: 1px solid rgba(0, 0, 0, 0.4);
+              border-radius: 10px;
+              background: black;
+              color: white;
+            "
+          >
+            <p style="margin: 0px 0 0px 0; font-size: 1.2em; color: ">
+              <b style="color: ">Bank:</b> GTBank
+            </p>
+            <p style="margin: 0px 0 0px 0; font-size: 1.2em; color: ">
+              <b style="color: ">Account name:</b> Roseline Joseph Umaru
+            </p>
+            <p id="" style="font-size: 1.2em; color: ">
+              <b style="color: ">Account number:</b>
+              <span style="color: " id="text-to-copy"> 0022365823</span>
+            </p>
+          </div>
+          <button
+            @click="copyText(1), trigger()"
+            class="Btn"
+            style="
+              background-color: #917718;
+              background-image: linear-gradient(
+                45deg,
+                #917718 0%,
+                #8f0f69 100%
+              );
+            "
+          >
+            <span class="text">Copy Number</span>
+            <span class="svgIcon">
+              <svg
+                fill="white"
+                viewBox="0 0 384 512"
+                height="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M280 64h40c35.3 0 64 28.7 64 64V448c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V128C0 92.7 28.7 64 64 64h40 9.6C121 27.5 153.3 0 192 0s71 27.5 78.4 64H280zM64 112c-8.8 0-16 7.2-16 16V448c0 8.8 7.2 16 16 16H320c8.8 0 16-7.2 16-16V128c0-8.8-7.2-16-16-16H304v24c0 13.3-10.7 24-24 24H192 104c-13.3 0-24-10.7-24-24V112H64zm128-8a24 24 0 1 0 0-48 24 24 0 1 0 0 48z"
+                ></path>
+              </svg>
+            </span>
+          </button>
+
+          <section
+            id="notice-section"
+            class="notice"
+            style="
+              background-color: #ffebf5;
+              color: #121212;
+              border: 2px solid #ff5acd;
+              padding: 1px;
+              margin: 1.3em 30px 0 30px;
+              text-align: center;
+              border-radius: 8px;
+              font-size: 14px;
+            "
+          >
+            <p>
+              Please send cash gifts <strong>ONLY</strong> on
+              <strong>5<sup>th</sup> July</strong><br />(birth date).
+            </p>
+          </section>
+        </div>
+      </div>
+
+      <h4 class="text-center dancing-script-titles" style="margin-bottom: 10px">
+        Gallery
+      </h4>
+      <div style="width: 100%">
+        <img
+          style="width: 100%; transform: scaleY(-1); margin-bottom: 20px"
+          src="../assets/fancyline.png"
+          alt=""
+        />
+      </div>
+      <div>
+        <slide />
       </div>
 
       <h4 class="text-center dancing-script-titles" style="color: ">
@@ -314,143 +455,6 @@
           </button>
         </div>
       </div>
-      <div style="width: 100%">
-        <img
-          style="
-            width: 100%;
-            transform: scaleY(-1);
-            margin-top: 10px;
-            margin-bottom: 0px;
-          "
-          src="../assets/fancyline.png"
-          alt=""
-        />
-      </div>
-      <div>
-        <div
-          class="bg-white gift"
-          style="
-            width: 93%;
-            padding-bottom: 40px;
-            margin: auto;
-            position: relative;
-            margin-bottom: 30px;
-            margin-top: 70px;
-            border-radius: 15px;
-          "
-        >
-          <div
-            class=""
-            style="
-              width: 90%;
-              height: 350px;
-              margin: auto;
-              position: relative;
-              top: -30px;
-              border-radius: 15px;
-              overflow: hidden;
-              background-image: linear-gradient(
-                120deg,
-                #89f7fe 0%,
-                #66a6ff 100%
-              );
-            "
-          >
-            <img
-              style="width: 100%; height: 100%; object-fit: cover"
-              src="../../src/assets/rose/img2.jpg"
-            />
-          </div>
-          <h4 style="padding-left: 30px; color: ; font-weight: bold">
-            Cash Gift
-          </h4>
-          <div style="padding: 0 30px; font-size: 16px; margin: 10px 0">
-            As she celebrates her 50th birthday and 24 years at TMT, let's
-            surprise her with a cash gift and our prayers. Please contribute
-            WILLINGLY, considering the current challenges. no PRESURE!
-          </div>
-          <div class="accwhite"
-            style="
-              padding: 7px;
-              margin-left: 28px;
-              margin-right: 28px;
-              margin-bottom: 15px;
-              border: 1px solid rgba(0, 0, 0, 0.4);
-              border-radius: 10px;
-              background: black;
-              color: white;
-            "
-          >
-            <p style="margin: 0px 0 0px 0; font-size: 1.2em; color:;">
-              <b style="color:;">Bank:</b> GTBank
-            </p>
-            <p style="margin: 0px 0 0px 0; font-size: 1.2em; color:;">
-              <b style="color:;">Account name:</b> Roseline Joseph Umaru
-            </p>
-            <p id="" style="font-size: 1.2em; color:;">
-              <b style="color:;">Account number:</b>
-              <span style="color:;" id="text-to-copy"> 0022365823</span>
-            </p>
-          </div>
-          <button
-            @click="copyText(1), trigger()"
-            class="Btn"
-            style="
-              background-color: #917718;
-              background-image: linear-gradient(
-                45deg,
-                #917718 0%,
-                #8f0f69 100%
-              );
-            "
-          >
-            <span class="text">Copy Number</span>
-            <span class="svgIcon">
-              <svg
-                fill="white"
-                viewBox="0 0 384 512"
-                height="1em"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M280 64h40c35.3 0 64 28.7 64 64V448c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V128C0 92.7 28.7 64 64 64h40 9.6C121 27.5 153.3 0 192 0s71 27.5 78.4 64H280zM64 112c-8.8 0-16 7.2-16 16V448c0 8.8 7.2 16 16 16H320c8.8 0 16-7.2 16-16V128c0-8.8-7.2-16-16-16H304v24c0 13.3-10.7 24-24 24H192 104c-13.3 0-24-10.7-24-24V112H64zm128-8a24 24 0 1 0 0-48 24 24 0 1 0 0 48z"
-                ></path>
-              </svg>
-            </span>
-          </button>
-
-          <section
-            id="notice-section"
-            class="notice"
-            style="
-              background-color: #ffebf5;
-              color: #121212;
-              border: 2px solid #ff5acd;
-              padding: 1px;
-              margin: 1.3em 30px 0 30px;
-              text-align: center;
-              border-radius: 8px;
-              font-size: 14px;
-            "
-          >
-            <p>Please send cash gifts <strong>ONLY</strong> on <strong>5<sup>th</sup> July</strong><br>(birth date).</p>
-          </section>
-        </div>
-      </div>
-
-      <h4 class="text-center dancing-script-titles" style="margin-bottom: 10px">
-        Gallery
-      </h4>
-      <div style="width: 100%">
-        <img
-          style="width: 100%; transform: scaleY(-1); margin-bottom: 20px"
-          src="../assets/fancyline.png"
-          alt=""
-        />
-      </div>
-      <div>
-        <slide />
-      </div>
 
       <div style="width: 100%">
         <img
@@ -481,6 +485,28 @@
         <source src="../../src/assets/v2.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
+      <button id="cel" class="pacifico-regular cel1" @click="playAudio()"
+      style="color: white">
+        Celebrate Her
+      </button>
+    </div>
+    <div
+      style="
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        position: absolute;
+        transform: translate(-50%, -50%);
+        top: 50%;
+        left: 50%;
+        z-index: 4000;
+        background: red;
+      "
+    >
+      <audio id="myAudio" loop controls>
+        <source src="../../src/assets/aud.mp3" type="audio/mpeg" />
+        Your browser doesn't support Audio
+      </audio>
     </div>
     <footer style="width: 100%; background: #a70651">
       <p>Thank you for celebrating with us!</p>
@@ -508,6 +534,13 @@ function showNotif(message) {
     message: notifMsg,
     color: "purple",
   });
+}
+
+function playAudio() {
+  var audio = document.getElementById("myAudio");
+  audio.play();
+  var floating = document.getElementById("floating");
+  floating.classList.add("close_video");
 }
 
 const textToCopy = ref("");
@@ -779,8 +812,10 @@ function trigger() {
 start();
 //----------------------------------------------
 setTimeout(() => {
-  document.getElementById("floating").style.display = "none";
-}, 11000);
+  // document.getElementById("floating").style.display = "none";
+  var cel = document.getElementById("cel");
+  cel.classList.add("cel2");
+}, 10000);
 
 //----------------------------------------------
 const messages = ref([]);
@@ -1688,13 +1723,12 @@ export default {
 </script>
 
 <style scoped>
-.date{
+.date {
   width: 100%;
   position: absolute;
   font-size: 1.5em;
   left: 0;
   top: 55px;
-  z-index: ;
   text-align: center;
   color: #ff69b4;
   font-family: "Dancing Script", cursive;
@@ -1703,7 +1737,31 @@ export default {
   color: white;
   font-weight: 900;
 }
-.date *{
+.cel1 {
+  padding: 10px;
+  border-radius: 100px;
+  border: none;
+  background-color: rgb(189, 7, 95);
+  box-shadow: 0px 0px 35px 20px red;
+  margin-top: 80px;
+  color: white;
+  opacity: 0;
+  transition: all .5s;
+}
+.cel2 {
+  margin-top: 30px;
+  opacity: 1;
+  animation: cele 3s linear infinite;
+}
+@keyframes cele {
+  50% {
+    box-shadow: 0px 0px 0px 0px red;
+  }
+  90% {
+    box-shadow: 0px 0px 35px 20px rgba(54, 30, 44, .5);
+  }
+}
+.date * {
   font-weight: 900;
   color: #ff69b4;
   font-family: "Dancing Script", cursive;
@@ -1711,10 +1769,10 @@ export default {
   font-style: normal;
   color: white;
 }
-.accwhite{
+.accwhite {
   box-shadow: 3px 3px 20px rgb(201, 200, 200);
 }
-.accwhite *{
+.accwhite * {
   color: white;
 }
 canvas {
@@ -1770,11 +1828,45 @@ canvas {
 .floating {
   display: flex;
   align-items: center;
+  justify-content: center;
+  flex-direction: column;
   position: fixed;
+  width: 100%;
+  height: 100vh;
   top: 0;
   left: 0;
   z-index: 9005px;
   background-color: black;
+}
+.close_video {
+  animation: close_video 2s ease-in-out forwards;
+}
+@keyframes close_video {
+  0% {
+    height: 100vh;
+    width: 100%;
+    opacity: 1;
+  }
+
+  50% {
+    height: 1vh;
+    width: 100%;
+    opacity: 0;
+    /* Optional: if you want to hide the element when height is reduced */
+  }
+
+  50.1% {
+    height: 1vh;
+    width: 100%;
+    opacity: 0;
+  }
+
+  100% {
+    height: 1vh;
+    width: 10%;
+    opacity: 0;
+    /* Adjust this if you want different opacity at the end */
+  }
 }
 .modal {
   display: block;
